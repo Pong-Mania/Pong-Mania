@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Title_pong_mania.wav-70cddebfbb1f57e8fd49c5ca3b495f96.sample"
+
+[deps]
+
+source_file="res://music/Title_pong_mania.wav"
+dest_files=[ "res://.import/Title_pong_mania.wav-70cddebfbb1f57e8fd49c5ca3b495f96.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

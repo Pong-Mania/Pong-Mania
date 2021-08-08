@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/HermesBossMusic.wav-4f5a0836ceac6dcfe675f0b8d7ea96f8.sample"
+
+[deps]
+
+source_file="res://music/musicForGame/HermesBossMusic.wav"
+dest_files=[ "res://.import/HermesBossMusic.wav-4f5a0836ceac6dcfe675f0b8d7ea96f8.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
